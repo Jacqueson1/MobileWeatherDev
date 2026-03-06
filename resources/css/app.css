@@ -10,10 +10,6 @@
         'Segoe UI Symbol', 'Noto Color Emoji';
 }
 
-.container {
-    @apply mx-auto px-4;
-
-}
 
 .nav {
     background-color: #96b1ef;
